@@ -1,0 +1,16 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "This is and jwt auth example project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Ali Labib",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.28"
+  }
+}
